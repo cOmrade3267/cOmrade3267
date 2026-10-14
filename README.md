@@ -1,4 +1,4 @@
-# Hi, I'm Soham Khardikar
+# Hi, I'm Soham Nilesh Khardikar
 
 Integrated B.Tech–M.Tech Cybersecurity student at NFSU (grad 2028) · Independent bug bounty researcher · AppSec / VAPT
 
