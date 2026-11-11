@@ -17,6 +17,10 @@ I find and responsibly report vulnerabilities in open-source and cloud tooling, 
 
 - Critical vulnerability in a cloud platform vendor's bug bounty program: **vendor-assessed CVSS 9.9**, fixed fleetwide. Details withheld under program terms.
 
+## Hall Of Flame
+
+- Railway private bug bounty program in bugcrowd
+
 ## Projects
 
 - **AuthGraph** – GitHub App that scans pull requests for authorization and SSRF vulnerabilities (link the repo if it's public, otherwise delete this section) (in progress)
